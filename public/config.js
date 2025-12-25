@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Markets,Leaderboard,Rewards,Vaults,Portfolio",
-  "VITE_CUSTOM_MENUS": "Swap, https://solanicafinance.app/trading; x402Pay, https://solanicafinance.app/x402; Trade, https://solanicafinance.app/",
+  "VITE_CUSTOM_MENUS": "Swap, https://solanicafinance.app/trading; x402Pay, https://solanicafinance.app/x402; Swapapp, https://solanicafinance.app/",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/SolanicaFinance",
