@@ -20,7 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Markets,Leaderboard,Rewards,Vaults,Portfolio",
   "VITE_CUSTOM_MENUS": "Swap, https://solanicafinance.app/; x402Pay, https://solanicafinance.app/; BUY $SOLF, https://jup.ag/tokens/CRKdGbTcFRdXqQimQbJiEjVKdMkPCE1ZXhXQYJMsbonk",
-  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
+  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/SolanicaFinance",
   "VITE_DISCORD_URL": "",
