@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Decentralized trading,intelligent analytics, automatic fee optimization via x402 protocol, and lightning-fast swaps on Solana.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Markets,Vaults,Rewards,Points,Leaderboard,Portfolio",
+  "VITE_ENABLED_MENUS": "Trading,Markets,Vaults,Rewards,Points,Leaderboard,Portfolio,Campaigns",
   "VITE_CUSTOM_MENUS": "Swap, https://solanicafinance.app/swap; Dark Send, https://solanicafinance.app/transfer; Dark Dashboard, https://solanicafinance.app/dashboard; Docs, https://solanica-finance.gitbook.io/solanica-finance-docs/",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
