@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Markets,Vaults,Rewards,Points,Leaderboard,Portfolio,Campaigns",
-  "VITE_CUSTOM_MENUS": "Swap, https://solanicafinance.app/MoonLab; Docs, https://solanica-finance.gitbook.io/solanica-finance-docs/",
+  "VITE_CUSTOM_MENUS": "MoonLab, https://solanicafinance.app/app; Swap, https://solanicafinance.app/app/pairs; Docs, https://solanica-finance.gitbook.io/solanica-finance-docs/",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/SolanicaFinance",
