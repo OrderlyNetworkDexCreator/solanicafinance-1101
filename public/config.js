@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Decentralized trading, Launchpad, lightning-fast swaps on Solana.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Markets,Vaults,Rewards,Points,Leaderboard,Portfolio,Campaigns",
+  "VITE_ENABLED_MENUS": "Trading,Markets,Vaults,Rewards,Points,Leaderboard,Portfolio,Campaigns,Swap",
   "VITE_CUSTOM_MENUS": "MoonLab, https://solanicafinance.app; Docs, https://solanica-finance.gitbook.io/solanica-finance-docs/",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
